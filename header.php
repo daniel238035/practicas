@@ -48,7 +48,7 @@
                 <img class="responsive-img" src="images/logo.png" alt="">
               </div>
               <div class="col s8  ">
-                <a href="http://localhost/practicas/"><h6 class="color-oscuro text-negrita" style="font-size: 18px;">OFICINA GENERAL DE COOPERACIÓN TÉCNICA <br> Y RELACIONES INTERNACIONALES</h6></a> 
+                <a href="http://localhost/practicas/"><h6 class="color-oscuro text-negrita" style="font-size: 18px;">OFICINA GENERAL DE COOPERACIÓN TÉCNICA <br> Y RELACIONES INTERNACIONALES</h6></a>
               </div>
             </div>
           </div>
@@ -60,7 +60,7 @@
                   <li class="col s2 color-oscuro btn-menu center"><a  class='' href='http://localhost/practicas/listanoticias.php' data-activates='dropdown1'>Noticias</a></li>
                   <li class="col s2 color-oscuro btn-menu center"><a  class='' href='http://localhost/practicas/listaeventos.php' data-activates='dropdown1'>Eventos</a></li>
                   <li class="col s2 color-oscuro btn-menu center"><a  class='' href='#' data-activates='dropdown1'>Galeria</a></li>
-                  <li class="col s2 color-oscuro btn-menu center"><a  class='' href='#' data-activates='dropdown1'>Convenios</a></li>
+                  <li class="col s2 color-oscuro btn-menu center"><a  class='' href='#' data-activates='dropdown1'>Contáctanos</a></li>
 
                 </ul>
             </div>
