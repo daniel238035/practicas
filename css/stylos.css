@@ -321,7 +321,7 @@
   color: #fff;
 }
 .btn-sec-4:after, .btn-sec-4:before {
-  content: 'Convocatorias';
+  content: 'Otras Convocatorias';
 	font-size: 18px;
   position: absolute;
   left: 50%;
