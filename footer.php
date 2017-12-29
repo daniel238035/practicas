@@ -38,6 +38,8 @@
  <!-- bxSlider CSS file --><font></font>
  <link href="css/jquery.bxslider.css" rel="stylesheet" />
 
+ <!--Import Swiper JV -->
+ <script src="js/swiper.min.js"></script>
  <!--SLIKER-->
  <script type="text/javascript" src="slick/slick.min.js"></script>
 

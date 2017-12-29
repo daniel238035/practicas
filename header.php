@@ -12,6 +12,8 @@
       <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
       <!--Import stylos.css-->
       <link type="text/css" rel="stylesheet" href="css/stylos.css"  media="screen,projection"/>
+      <!--Import Swiper -->
+       <link rel="stylesheet" href="css/swiper.min.css">
       <!--FONTS IMPORTADOS-->
       <link href="https://fonts.googleapis.com/css?family=Patua+One" rel="stylesheet">
       <link href="https://fonts.googleapis.com/css?family=Permanent+Marker|Viga" rel="stylesheet">

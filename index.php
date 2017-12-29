@@ -447,13 +447,59 @@
     </div>
 
     <div class="row bg-secundario seccion-2" id="convenios">
-      <div class="container">
-        <div class="col s6 l3">
+      <div class="">
+        <div class="swiper-container container">
+          <div class="swiper-wrapper row ">
+              <div class="swiper-slide">
+                <div class="row">
+                  <div class="col s6 l3">
 
-        </div>
-        <div class="col s6 l9">
-          <h6 class="white-text">Nuestra Universidad <br> Nacional Pedro Ruiz Gallo</h6>
-          <h5 class="white-text">Cuenta con Convenios con las <br>siguientes Instituciones</h5>
+                  </div>
+                  <div class="col s6 l9">
+                    <h6 class="white-text">Nuestra Universidad <br> Nacional Pedro Ruiz Gallo</h6>
+                    <h5 class="white-text">Cuenta con Convenios con las <br>siguientes Instituciones</h5>
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="row">
+                  <div class="col s6 l3">
+
+                  </div>
+                  <div class="col s6 l9">
+                    <h6 class="white-text">Nuestra Universidad <br> Nacional Pedro Ruiz Gallo tiene convenio con: </h6>
+                    <h5 class="white-text">Universidad Nacional <br> de Trujillo</h5>
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="row">
+                  <div class="col s6 l3">
+
+                  </div>
+                  <div class="col s6 l9">
+                    <h6 class="white-text">Nuestra Universidad <br> Nacional Pedro Ruiz Gallo tiene convenio con: </h6>
+                    <h5 class="white-text">Universidad Nacional <br> de Chimbote</h5>
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="row">
+                  <div class="col s6 l3">
+
+                  </div>
+                  <div class="col s6 l9">
+                    <h6 class="white-text">Nuestra Universidad <br> Nacional Pedro Ruiz Gallo tiene convenio con: </h6>
+                    <h5 class="white-text">Universidad Nacional <br> de Piura</h5>
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-slide">Slide 9</div>
+              <div class="swiper-slide">Slide 10</div>
+          </div>
+          <!-- Add Arrows -->
+          <div class="swiper-button-next"></div>
+          <div class="swiper-button-prev"></div>
         </div>
       </div>
     </div>
