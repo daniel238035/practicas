@@ -52,7 +52,7 @@
 					</div>
 
 
-					<div class="row">
+					<div class="row" style="padding: 10px 20px 10px 20px!important">
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -130,25 +130,16 @@
 							Ultimas Noticias
 						</h5>
 						<div class="col s12">
-							<h6>28 de noviembre</h6>
-							<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-							consequat.</h6>
+							<h6 class="text-negrita color-primario">28 de noviembre</h6>
+							<p>Titulo de ultima noticia</p>
 						</div>
 						<div class="col s12">
-							<h6>28 de noviembre</h6>
-							<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-							consequat.</h6>
+							<h6 class="text-negrita color-primario">28 de noviembre</h6>
+							<p>Titulo de ultima noticia</p>
 						</div>
 						<div class="col s12">
-							<h6>28 de noviembre</h6>
-							<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-							consequat.</h6>
+							<h6 class="text-negrita color-primario">28 de noviembre</h6>
+							<p>Titulo de ultima noticia</p>
 						</div>
 					</div>
 
