@@ -3,7 +3,7 @@
 <div class="cuerpo">
 	<div class="row" style="margin:0px!important;">
 		<div class="card-panel bg-secundario centered flex-row" style="margin:0px!important;">
-			<h2 class="white-text">Noticias</h2>
+			<h2 class="white-text">NOTICIAS</h2>
 		</div>
 	</div>
 
