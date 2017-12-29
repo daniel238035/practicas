@@ -10,7 +10,7 @@
                 </div>
 
                 <div class="col s12 l5 offset-l2 hide-on-med-and-up">
-                  <h4 class="white-text">INTERNACIONALIZACION DE DOCENTES</h4>
+                  <h5 class="white-text">INTERNACIONALIZACION DE DOCENTES</h5>
                 </div>
               </div>
           </div>
