@@ -1,6 +1,6 @@
 <?php include("header.php"); ?>
 
-  <div class="">
+  <div class="cuerpo">
         <div class="row portada-sub portada-4 ">
           <div class="portada-principal-oscuro flex seccion-2">
               <div class="row">
