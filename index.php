@@ -16,10 +16,10 @@
 
     <div class="row white seccion" id="nosotros">
       <div class="container ">
-        <div class="col s6">
+        <div class="col l6 hide-on-med-and-down">
 
         </div>
-        <div class="col s6">
+        <div class="col s12 l6">
           <div class="row">
             <div class="col s12">
               <h5 class="color-secundario text-negrita">Misión</h5>
@@ -34,7 +34,7 @@
       </div>
     </div>
 
-    <div class="row portada-secundario portada-2 ">
+    <div class="row portada-secundario portada-2 hide-on-med-and-down">
       <div class="portada-principal-oscuro flex seccion-2">
           <div class="row">
             <div class="col s12 l6 offset-l1">
@@ -45,7 +45,19 @@
       </div>
     </div>
 
-    <div class="row portada-secundario portada-4 ">
+    <!--VISTA PARA MOVIL-->
+    <div class="row  hide-on-med-and-up portada-2">
+      <div class="portada-principal-oscuro flex seccion-2">
+          <div class="row">
+            <div class="col s12 l6 offset-l1">
+              <h4 class="white-text text-negrita">COOPERACIÓN TÉCNICA</h4>
+              <p class="white-text">Proveemos asistencia técnica para el establecimiento de acuerdos de cooperación en beneficio de la comunidad universitaria y la región Lambayeque.</p>
+            </div>
+          </div>
+      </div>
+    </div>
+
+    <div class="row hide-on-med-and-down portada-secundario portada-4 ">
       <div class="portada-principal-oscuro flex seccion-2">
           <div class="row">
             <div class="col s12 l4 offset-l1">
@@ -98,7 +110,62 @@
       </div>
     </div>
 
-    <div class="row portada-secundario portada-3 ">
+    <!--VISTA PARA MOVIL-->
+    <div class="row hide-on-med-and-up portada-4 ">
+      <div class="portada-principal-oscuro flex seccion-2">
+          <div class="row">
+            <div class="col s12 l5 offset-l1">
+              <h4 class="white-text text-negrita">MOVILIDAD ESTUDIANTIL</h4>
+              <p class="white-text">A través de los distintos convenios firmados, nuestros estudiantes pueden aplicar para cursar un semestre académico en universidades del  Perú o el extranjero. </p>
+            </div>
+            <div class="col s12 l4 offset-l1">
+              <div class="container">
+                <div class=" card card-seccion-2 row white">
+                  <div class="col s12 ">
+                    <h5 class="titulo-borde-izquierdo-2">Convocatorias Vigentes</h5>
+                  </div>
+                  <div class="col s12 item">
+                    <div class="row">
+                      <div class="col s3 bg-secundario l">
+                        <h5 class="white-text" style="text-align:center">18<br>Dic</h5>
+                      </div>
+                      <div class="col s8">
+                        <h5 class="color-oscuro titulo-item">Internacionalizacion de docente 1</h5>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col s12 item">
+                    <div class="row">
+                      <div class="col s3 bg-secundario l">
+                        <h5 class="white-text" style="text-align:center">18<br>Dic</h5>
+                      </div>
+                      <div class="col s8">
+                        <h5 class="color-oscuro titulo-item">Internacionalizacion de docente 1</h5>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col s12 item">
+                    <div class="row">
+                      <div class="col s3 bg-secundario l">
+                        <h5 class="white-text" style="text-align:center">18<br>Dic</h5>
+                      </div>
+                      <div class="col s8">
+                        <h5 class="color-oscuro titulo-item">Internacionalizacion de docente 1</h5>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col s12 item">
+                    <a class="btn btn-flat color-secundario text-negrita" href="http://localhost/practicas/convocatoria.php">Ver más</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+      </div>
+    </div>
+
+    <div class="row hide-on-med-and-down portada-secundario portada-3 ">
       <div class="portada-principal-oscuro flex seccion-2">
           <div class="row">
             <div class="col s12 l6 offset-l1">
@@ -151,7 +218,61 @@
       </div>
     </div>
 
-    <div class="row portada-secundario portada-5 ">
+    <!--VISTA PARA MOVIL-->
+    <div class="row hide-on-med-and-up portada-3 ">
+      <div class="portada-principal-oscuro flex seccion-2">
+          <div class="row">
+            <div class="col s12 l6 offset-l1">
+              <h5 class="white-text text-negrita">INTERNACIONALIZACIÓN DOCENTE</h5>
+              <p class="white-text">Nuestros docentes tienen la oportunidad de participar en actividades de capacitación e investigación en colaboración con reconocidas instituciones académicas nacionales e internacionales.</p>
+            </div>
+            <div class="col s12 l4">
+              <div class="container">
+                <div class=" card card-seccion-2 row white">
+                  <div class="col s12 ">
+                    <h5 class="titulo-borde-izquierdo-2">Convocatorias Vigentes</h5>
+                  </div>
+                  <div class="col s12 item">
+                    <div class="row">
+                      <div class="col s3 bg-secundario l">
+                        <h5 class="white-text" style="text-align:center">18<br>Dic</h5>
+                      </div>
+                      <div class="col s8">
+                        <h5 class="color-oscuro titulo-item">Internacionalizacion de docente 1</h5>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col s12 item">
+                    <div class="row">
+                      <div class="col s3 bg-secundario l">
+                        <h5 class="white-text" style="text-align:center">18<br>Dic</h5>
+                      </div>
+                      <div class="col s8">
+                        <h5 class="color-oscuro titulo-item">Internacionalizacion de docente 1</h5>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col s12 item">
+                    <div class="row">
+                      <div class="col s3 bg-secundario l">
+                        <h5 class="white-text" style="text-align:center">18<br>Dic</h5>
+                      </div>
+                      <div class="col s8">
+                        <h5 class="color-oscuro titulo-item">Internacionalizacion de docente 1</h5>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col s12 item">
+                    <a class="btn btn-flat color-secundario text-negrita" href="http://localhost/practicas/convocatoria.php">Ver más</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+
+    <div class="row hide-on-med-and-down portada-secundario portada-5 ">
       <div class="portada-principal-oscuro flex seccion-2">
           <div class="row">
             <div class="col s12 l4 offset-l1">
@@ -204,6 +325,61 @@
       </div>
     </div>
 
+    <!--VISTA PARA MOVIL-->
+    <div class="row hide-on-med-and-up portada-5 ">
+      <div class="portada-principal-oscuro flex seccion-2">
+          <div class="row">
+            <div class="col s12 l5 offset-l1">
+              <h4 class="white-text text-negrita">OTRAS CONVOCATORIAS</h4>
+              <p class="white-text">Aquí podrás encontrar información sobre los programas nacionales e internacionales de formación e intercambios de carácter universitario.</p>
+            </div>
+            <div class="col s12 l4 offset-l1">
+              <div class="container">
+                <div class=" card card-seccion-2 row white">
+                  <div class="col s12 ">
+                    <h5 class="titulo-borde-izquierdo-2">Convocatorias Vigentes</h5>
+                  </div>
+                  <div class="col s12 item">
+                    <div class="row">
+                      <div class="col s3 bg-secundario l">
+                        <h5 class="white-text" style="text-align:center">18<br>Dic</h5>
+                      </div>
+                      <div class="col s8">
+                        <h5 class="color-oscuro titulo-item">Internacionalizacion de docente 1</h5>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col s12 item">
+                    <div class="row">
+                      <div class="col s3 bg-secundario l">
+                        <h5 class="white-text" style="text-align:center">18<br>Dic</h5>
+                      </div>
+                      <div class="col s8">
+                        <h5 class="color-oscuro titulo-item">Internacionalizacion de docente 1</h5>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col s12 item">
+                    <div class="row">
+                      <div class="col s3 bg-secundario l">
+                        <h5 class="white-text" style="text-align:center">18<br>Dic</h5>
+                      </div>
+                      <div class="col s8">
+                        <h5 class="color-oscuro titulo-item">Internacionalizacion de docente 1</h5>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col s12 item">
+                    <a class="btn btn-flat color-secundario text-negrita" href="#">Ver más</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+      </div>
+    </div>
+
     <div class="row bg-fondo-oscuro seccion-2">
       <div class="container ">
         <div class="col s12 l4 altura-igual-1">
@@ -234,30 +410,30 @@
             </div>
             <div class="col s12 item">
               <div class="row">
-                <div class="col s2 bg-secundario l">
+                <div class="col s3 l2 bg-secundario l">
                   <h5 class="white-text" style="text-align:center">18<br>Dic</h5>
                 </div>
-                <div class="col s8">
+                <div class="col s7 l8">
                   <h5 class="color-oscuro titulo-item">Internacionalizacion de docente 1</h5>
                 </div>
               </div>
             </div>
             <div class="col s12 item">
               <div class="row">
-                <div class="col s2 bg-secundario l">
+                <div class="col s3 l2 bg-secundario l">
                   <h5 class="white-text" style="text-align:center">18<br>Dic</h5>
                 </div>
-                <div class="col s8">
+                <div class="col s7 l8">
                   <h5 class="color-oscuro titulo-item">Internacionalizacion de docente 1</h5>
                 </div>
               </div>
             </div>
             <div class="col s12 item">
               <div class="row">
-                <div class="col s2 bg-secundario l">
+                <div class="col s3 l2 bg-secundario l">
                   <h5 class="white-text" style="text-align:center">18<br>Dic</h5>
                 </div>
-                <div class="col s8">
+                <div class="col s7 l8">
                   <h5 class="color-oscuro titulo-item">Internacionalizacion de docente 1</h5>
                 </div>
               </div>

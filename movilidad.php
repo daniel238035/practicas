@@ -57,24 +57,69 @@
               </div>
 
               <div class="col s12 " id="presentacion" style="margin:15px 0px!important;">
-                <h4 class="color-secundario" >PRESENTACIÓN</h4>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. In illum cumque accusamus, cum possimus porro quas necessitatibus aspernatur voluptatem sunt, tempore ipsam animi dolorum velit iure assumenda ut ratione voluptatum non? Eum nisi quas nam illum ea, consectetur voluptatem commodi doloremque neque harum, obcaecati vero sapiente magni nulla repudiandae eos facere pariatur, cum eius vel ut vitae alias. Vero ipsum, dolore provident accusamus sequi maiores incidunt commodi dignissimos minima laudantium, aut, iusto architecto suscipit doloribus cupiditate culpa, ratione similique fugit molestiae tenetur. Fugit blanditiis facere dolorum, beatae officia dolore quae. Quam similique at sunt repellendus sit voluptas beatae aperiam doloremque.
+                <h4 class="color-secundario" >Presentación</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque in debitis pariatur sequi veniam corporis officia ducimus officiis, possimus, maxime beatae assumenda quae tempore a consequatur libero ullam dignissimos quam, quia vel modi ex. Dicta nisi unde quasi id voluptatibus molestiae mollitia quidem et optio, provident veniam illum vitae soluta atque quaerat, est in possimus repellat quis pariatur, a dolore! Dolorem saepe voluptatibus debitis nostrum vero! Id quod labore iste dicta debitis porro dolorem quae eligendi, nam blanditiis! Quod, architecto vel aut minima, quas officiis itaque cupiditate asperiores facilis aperiam illo aliquid labore animi? Laboriosam ab quod officia necessitatibus porro!
+                </p>
               </div>
 
               <div class="col s12 " id="beneficios" style="margin:15px 0px!important;">
-                <h4 class="color-secundario">BENEFICIOS</h4>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque in debitis pariatur sequi veniam corporis officia ducimus officiis, possimus, maxime beatae assumenda quae tempore a consequatur libero ullam dignissimos quam, quia vel modi ex. Dicta nisi unde quasi id voluptatibus molestiae mollitia quidem et optio, provident veniam illum vitae soluta atque quaerat, est in possimus repellat quis pariatur, a dolore! Dolorem saepe voluptatibus debitis nostrum vero! Id quod labore iste dicta debitis porro dolorem quae eligendi, nam blanditiis! Quod, architecto vel aut minima, quas officiis itaque cupiditate asperiores facilis aperiam illo aliquid labore animi? Laboriosam ab quod officia necessitatibus porro!
+                <h4 class="color-secundario">Beneficios</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque in debitis pariatur sequi veniam corporis officia ducimus officiis, possimus, maxime beatae assumenda quae tempore a consequatur libero ullam dignissimos quam, quia vel modi ex. Dicta nisi unde quasi id voluptatibus molestiae mollitia quidem et optio, provident veniam illum vitae soluta atque quaerat, est in possimus repellat quis pariatur, a dolore! Dolorem saepe voluptatibus debitis nostrum vero! Id quod labore iste dicta debitis porro dolorem quae eligendi, nam blanditiis! Quod, architecto vel aut minima, quas officiis itaque cupiditate asperiores facilis aperiam illo aliquid labore animi? Laboriosam ab quod officia necessitatibus porro!
+                </p>
               </div>
 
               <div class="col s12 " id="instituciones_elegibles" style="margin:15px 0px!important;">
                 <h4 class="color-secundario">IES Elegibles</h4>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque in debitis pariatur sequi veniam corporis officia ducimus officiis, possimus, maxime beatae assumenda quae tempore a consequatur libero ullam dignissimos quam, quia vel modi ex. Dicta nisi unde quasi id voluptatibus molestiae mollitia quidem et optio, provident veniam illum vitae soluta atque quaerat, est in possimus repellat quis pariatur, a dolore! Dolorem saepe voluptatibus debitis nostrum vero! Id quod labore iste dicta debitis porro dolorem quae eligendi, nam blanditiis! Quod, architecto vel aut minima, quas officiis itaque cupiditate asperiores facilis aperiam illo aliquid labore animi? Laboriosam ab quod officia necessitatibus porro!
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque in debitis pariatur sequi veniam corporis officia ducimus officiis, possimus, maxime beatae assumenda quae tempore a consequatur libero ullam dignissimos quam, quia vel modi ex. Dicta nisi unde quasi id voluptatibus molestiae mollitia quidem et optio, provident veniam illum vitae soluta atque quaerat, est in possimus repellat quis pariatur, a dolore! Dolorem saepe voluptatibus debitis nostrum vero! Id quod labore iste dicta debitis porro dolorem quae eligendi, nam blanditiis! Quod, architecto vel aut minima, quas officiis itaque cupiditate asperiores facilis aperiam illo aliquid labore animi? Laboriosam ab quod officia necessitatibus porro!
+                </p>
+              </div>
+
+              <div class="col s12 " id="instituciones_elegibles" style="margin:15px 0px!important;">
+                <h4 class="color-secundario">Requermientos para Postular</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque in debitis pariatur sequi veniam corporis officia ducimus officiis, possimus, maxime beatae assumenda quae tempore a consequatur libero ullam dignissimos quam, quia vel modi ex. Dicta nisi unde quasi id voluptatibus molestiae mollitia quidem et optio, provident veniam illum vitae soluta atque quaerat, est in possimus repellat quis pariatur, a dolore! Dolorem saepe voluptatibus debitis nostrum vero! Id quod labore iste dicta debitis porro dolorem quae eligendi, nam blanditiis! Quod, architecto vel aut minima, quas officiis itaque cupiditate asperiores facilis aperiam illo aliquid labore animi? Laboriosam ab quod officia necessitatibus porro!
+                </p>
+              </div>
+
+              <div class="col s12 " id="instituciones_elegibles" style="margin:15px 0px!important;">
+                <h4 class="color-secundario">Áreas de Conocimiento</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque in debitis pariatur sequi veniam corporis officia ducimus officiis, possimus, maxime beatae assumenda quae tempore a consequatur libero ullam dignissimos quam, quia vel modi ex. Dicta nisi unde quasi id voluptatibus molestiae mollitia quidem et optio, provident veniam illum vitae soluta atque quaerat, est in possimus repellat quis pariatur, a dolore! Dolorem saepe voluptatibus debitis nostrum vero! Id quod labore iste dicta debitis porro dolorem quae eligendi, nam blanditiis! Quod, architecto vel aut minima, quas officiis itaque cupiditate asperiores facilis aperiam illo aliquid labore animi? Laboriosam ab quod officia necessitatibus porro!
+                </p>
+              </div>
+
+              <div class="col s12 " id="instituciones_elegibles" style="margin:15px 0px!important;">
+                <h4 class="color-secundario">Pasos para Postular</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque in debitis pariatur sequi veniam corporis officia ducimus officiis, possimus, maxime beatae assumenda quae tempore a consequatur libero ullam dignissimos quam, quia vel modi ex. Dicta nisi unde quasi id voluptatibus molestiae mollitia quidem et optio, provident veniam illum vitae soluta atque quaerat, est in possimus repellat quis pariatur, a dolore! Dolorem saepe voluptatibus debitis nostrum vero! Id quod labore iste dicta debitis porro dolorem quae eligendi, nam blanditiis! Quod, architecto vel aut minima, quas officiis itaque cupiditate asperiores facilis aperiam illo aliquid labore animi? Laboriosam ab quod officia necessitatibus porro!
+                </p>
+              </div>
+
+              <div class="col s12 " id="instituciones_elegibles" style="margin:15px 0px!important;">
+                <h4 class="color-secundario">Cronograma</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque in debitis pariatur sequi veniam corporis officia ducimus officiis, possimus, maxime beatae assumenda quae tempore a consequatur libero ullam dignissimos quam, quia vel modi ex. Dicta nisi unde quasi id voluptatibus molestiae mollitia quidem et optio, provident veniam illum vitae soluta atque quaerat, est in possimus repellat quis pariatur, a dolore! Dolorem saepe voluptatibus debitis nostrum vero! Id quod labore iste dicta debitis porro dolorem quae eligendi, nam blanditiis! Quod, architecto vel aut minima, quas officiis itaque cupiditate asperiores facilis aperiam illo aliquid labore animi? Laboriosam ab quod officia necessitatibus porro!
+                </p>
+              </div>
+
+              <div class="col s12 " id="instituciones_elegibles" style="margin:15px 0px!important;">
+                <h4 class="color-secundario">Duración de la Beca</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque in debitis pariatur sequi veniam corporis officia ducimus officiis, possimus, maxime beatae assumenda quae tempore a consequatur libero ullam dignissimos quam, quia vel modi ex. Dicta nisi unde quasi id voluptatibus molestiae mollitia quidem et optio, provident veniam illum vitae soluta atque quaerat, est in possimus repellat quis pariatur, a dolore! Dolorem saepe voluptatibus debitis nostrum vero! Id quod labore iste dicta debitis porro dolorem quae eligendi, nam blanditiis! Quod, architecto vel aut minima, quas officiis itaque cupiditate asperiores facilis aperiam illo aliquid labore animi? Laboriosam ab quod officia necessitatibus porro!
+                </p>
+              </div>
+
+              <div class="col s12 " id="instituciones_elegibles" style="margin:15px 0px!important;">
+                <h4 class="color-secundario">Documentación Obligatoria</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque in debitis pariatur sequi veniam corporis officia ducimus officiis, possimus, maxime beatae assumenda quae tempore a consequatur libero ullam dignissimos quam, quia vel modi ex. Dicta nisi unde quasi id voluptatibus molestiae mollitia quidem et optio, provident veniam illum vitae soluta atque quaerat, est in possimus repellat quis pariatur, a dolore! Dolorem saepe voluptatibus debitis nostrum vero! Id quod labore iste dicta debitis porro dolorem quae eligendi, nam blanditiis! Quod, architecto vel aut minima, quas officiis itaque cupiditate asperiores facilis aperiam illo aliquid labore animi? Laboriosam ab quod officia necessitatibus porro!
+                </p>
+              </div>
+
+              <div class="col s12 " id="instituciones_elegibles" style="margin:15px 0px!important;">
+                <h4 class="color-secundario">Bases y Modificaciones</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque in debitis pariatur sequi veniam corporis officia ducimus officiis, possimus, maxime beatae assumenda quae tempore a consequatur libero ullam dignissimos quam, quia vel modi ex. Dicta nisi unde quasi id voluptatibus molestiae mollitia quidem et optio, provident veniam illum vitae soluta atque quaerat, est in possimus repellat quis pariatur, a dolore! Dolorem saepe voluptatibus debitis nostrum vero! Id quod labore iste dicta debitis porro dolorem quae eligendi, nam blanditiis! Quod, architecto vel aut minima, quas officiis itaque cupiditate asperiores facilis aperiam illo aliquid labore animi? Laboriosam ab quod officia necessitatibus porro!
+                </p>
               </div>
 
             </div>
           </div>
 
-          <div class="col s12 l3">
+          <div class="col s12 l3 barra-lateral">
             <div class="row" style="margin: 15px 0px!important;">
               <div class="col s12">
                 <a class="btn btn-principal text-negrita" href="#" >Postula Aquí</a>

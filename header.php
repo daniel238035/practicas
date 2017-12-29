@@ -20,7 +20,7 @@
 
     <body class="">
       <header class="header">
-        <div class="row white menu-superior">
+        <div class="row white menu-superior hide-on-med-and-down">
           <div class="col s12 l7 men-sup-izquierda white">
             <p class="color-oscuro" style="margin:2px;">Bienvenidos a la <a href="#" class="color-oscuro" style="text-decoration:none;">Universidad Nacional Pedro Ruiz Gallo</a> </p>
           </div>
@@ -41,7 +41,7 @@
             </div>
           </div>
         </div>
-        <div class="row  menu-principal  flex-row">
+        <div class="row  menu-principal  flex-row ">
           <div class="col m6 ">
             <div class="row  flex flex-row">
               <div class="col s3 offset-s1  logo-menu center">
@@ -52,7 +52,7 @@
               </div>
             </div>
           </div>
-          <div class="col m6  " style="height:100%;">
+          <div class="col m6  hide-on-med-and-down" style="height:100%;">
             <div class="row ">
               <ul class="hide-on-med-and-down ">
                   <li class="col s2 color-oscuro btn-menu center"><a  class='' href='http://localhost/practicas/#nosotros' data-activates='dropdown1'>Nosotros</a></li>
@@ -66,7 +66,7 @@
             </div>
           </div>
         </div>
-        <div class="menu-fijo" style="width:100%;">
+        <div class="menu-fijo hide-on-med-and-down" style="width:100%;">
           <div class="row ">
             <div class=" col s12 l3 bg-primario">
               <div class="btn-sec-1"></div>
@@ -82,4 +82,26 @@
             </div>
           </div>
         </div>
+
+        <!--HEADER MOVIL-->
+        <nav class="hide-on-med-and-up bg-primario">
+         <div class="nav-wrapper">
+           <a href="#!" class="brand-logo"></a>
+           <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+           <ul class="side-nav bg-secundario" id="mobile-demo">
+             <li><a class="white-text" href="#">Inicio</a></li>
+             <li><a class="white-text" href="#">Nosotros</a></li>
+             <li><a class="white-text" href="#">Convenios</a></li>
+             <li><a class="white-text" href="#">Noticias</a></li>
+             <li><a class="white-text" href="#">Eventos</a></li>
+             <li><a class="white-text" href="#">Galeria</a></li>
+             <li><a class="white-text" href="#">Contactanos</a></li>
+             <div class="divider"></div>
+             <li><a class="white-text" href="#">Cooperacion técnica</a></li>
+             <li><a class="white-text" href="#">Movilidad Estudiantil</a></li>
+             <li><a class="white-text" href="#">Internacionalización de docente</a></li>
+             <li><a class="white-text" href="#">Otras Convocatorias</a></li>
+           </ul>
+         </div>
+       </nav>
       </header>

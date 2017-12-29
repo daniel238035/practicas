@@ -1,26 +1,34 @@
 <?php include("header.php"); ?>
 
 <div class="cuerpo">
-	<div class="row">
-		<div class="card-panel bg-secundario centered flex-row">
+	<div class="row" style="margin:0px!important;">
+		<div class="card-panel bg-secundario centered flex-row" style="margin:0px!important;">
 			<h2 class="white-text">Noticias</h2>
 		</div>
 	</div>
 
-	<div class="row">
+	<div class="row seccion">
 		<div class="col s12 offset-l1 l7">
 			<div class="row">
 				<h4>Nombre de la Noticia</h4>
 			</div>
 			<div class="row" style="padding-bottom: 5px">
 				<div class="col s6">
-					<div>
-						<span class="icon-calendar"></span> Fecha: 18 de Agosto
+					<div class="row" style="margin: 8px 0px!important;">
+							<div class="col s4 flex-row-start text-negrita">
+								<i class="material-icons tooltipped color-secundario" data-position="left" data-delay="50" data-tooltip="Fecha">event</i>
+								Fecha:
+							</div>
+							<div class="col s8">
+								18 de agosto del 2017
+							</div>
 					</div>
 				</div>
-			</div>
-			<div class="row">
-				<img src="imagenes/FCF.jpg" class="responsive-img z-depth-1 imagen-evento">
+				<div class="col s12">
+					<div class="row" style="margin: 15px 0px!important;">
+						<img src="images/portadas/portada3.jpg" class="responsive-img z-depth-1 imagen-evento" style="width: 100%;!important; height:450px!important;">
+					</div>
+				</div>
 			</div>
 
 			<div class="row">
