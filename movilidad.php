@@ -19,38 +19,38 @@
             </div>
 
             <div class="row" style="padding-bottom: 5px">
-              <div class="col s6">
+              <div class="col s12 l6">
                 <div class="row" style="margin: 8px 0px!important;" >
-                    <div class="col s4 flex-row-start text-negrita">
+                    <div class="col s12 l4 flex-row-start text-negrita">
                       <i class="material-icons tooltipped color-secundario" data-position="left" data-delay="50" data-tooltip="Institución">place</i>
                       Institución:
                     </div>
-                    <div class="col s8">
+                    <div class="col s12 l8">
                       Universidad Nacional Pedro Ruiz Gallo
                     </div>
                 </div>
               </div>
-              <div class="col s6">
+              <div class="col s12 l6">
                 <div class="row" style="margin: 8px 0px!important;">
-                    <div class="col s4 flex-row-start text-negrita">
+                    <div class="col s12 l4 flex-row-start text-negrita">
                       <i class="material-icons tooltipped color-secundario" data-position="left" data-delay="50" data-tooltip="Inicio">event</i>
                       Inicio:
                     </div>
-                    <div class="col s8">
+                    <div class="col s12 l8">
                       18 de agosto del 2017
                     </div>
                 </div>
                 <div class="row" style="margin: 8px 0px!important;">
-                    <div class="col s4 flex-row-start text-negrita">
+                    <div class="col s12 l4 flex-row-start text-negrita">
                       <i class="material-icons tooltipped color-secundario" data-position="left" data-delay="50" data-tooltip="Duración">date_range</i>
                       Duración:
                     </div>
-                    <div class="col s8">
+                    <div class="col s12 l8">
                       3 años
                     </div>
                 </div>
               </div>
-              <div class="col s12">
+              <div class="col s12 hide-on-med-and-down">
                 <div class="row" style="margin: 15px 0px!important;">
         					<img src="images/portadas/portada3.jpg" class="responsive-img z-depth-1 imagen-evento" style="width: 100%;!important; height:450px!important;">
         				</div>
