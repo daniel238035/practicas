@@ -1,5 +1,5 @@
 <?php include("header.php"); ?>
-<div>
+<div class="cuerpo">
 		<div class="row" style="margin:0px!important;">
 			<div class="card-panel bg-secundario centered flex-row" style="margin:0px!important;">
 				<h2 class="white-text">Noticias</h2>
