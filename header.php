@@ -101,7 +101,7 @@
              <div class="divider"></div>
              <li><a class="white-text" href="#">Cooperacion técnica</a></li>
              <li><a class="white-text" href="#">Movilidad Estudiantil</a></li>
-             <li><a class="white-text" href="#">Internacionalización de docente</a></li>
+             <li><a class="white-text" href="#">Internacionalización  docente</a></li>
              <li><a class="white-text" href="#">Otras Convocatorias</a></li>
            </ul>
          </div>
