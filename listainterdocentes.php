@@ -2,7 +2,7 @@
 
 
 <div class="cuerpo">
-  <div class="row portada-secundario portada-3 ">
+  <!--div class="row portada-secundario portada-3 ">
     <div class="portada-principal-oscuro flex seccion-2">
         <div class="row">
           <div class="col s12 l5 offset-l1">
@@ -10,6 +10,23 @@
             <p class="white-text">Nuestros docentes tienen la oportunidad de participar en actividades de capacitación e investigación en colaboración con reconocidas instituciones académicas nacionales e internacionales. </p>
           </div>
         </div>
+    </div>
+  </div-->
+
+  <div class="parallax-container">
+    <div class="parallax">
+      <img src="images/portadas/portada5.jpg">
+
+    </div>
+    <div class="row portada-secundario ">
+      <div class="portada-principal-oscuro flex seccion-2">
+          <div class="row">
+            <div class="col s12 l5 offset-l1">
+              <h2 class="white-text">INTERNACIONALIZACION DOCENTE</h2>
+              <p class="white-text">Nuestros docentes tienen la oportunidad de participar en actividades de capacitación e investigación en colaboración con reconocidas instituciones académicas nacionales e internacionales. </p>
+            </div>
+          </div>
+      </div>
     </div>
   </div>
 

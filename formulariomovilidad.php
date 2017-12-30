@@ -1,15 +1,23 @@
 <?php include("header.php"); ?>
 
 <div class="cuerpo">
-  <div class="row portada-sub portada-form ">
-    <div class="portada-principal-oscuro flex seccion-2">
-        <div class="row">
-          <div class="col s12 l5 offset-l2">
-            <h2 class="white-text">FORMULARIO</h2>
+
+  <div class="parallax-container portada-sub portada-principal-oscuro">
+    <div class="parallax">
+      <img src="images/portadas/portadaform.jpg">
+
+    </div>
+    <div class="row  ">
+      <div class="flex seccion-2">
+          <div class="row">
+            <div class="col s12 l5 offset-l2">
+              <h2 class="white-text">FORMULARIO</h2>
+            </div>
           </div>
-        </div>
+      </div>
     </div>
   </div>
+
   <div class="container seccion">
     <div class="row">
       <h4 class="text-negrita">Datos Personales</h4>
@@ -137,6 +145,7 @@
             </p>
           </div>
         </div>
+        <div class="divider row" style="margin: 10px 0px!important;"></div>
         <div class="row">
           <div class="col s12 l3">
             <h5 class="color-secundario">Ingles</h5>
@@ -187,6 +196,7 @@
             </p>
           </div>
         </div>
+        <div class="divider row" style="margin: 10px 0px!important;"></div>
         <div class="row">
           <div class="col s12 l3">
             <h5 class="color-secundario">Francés</h5>
@@ -237,6 +247,7 @@
             </p>
           </div>
         </div>
+        <div class="divider row" style="margin: 10px 0px!important;"></div>
         <div class="row">
           <div class="col s12 l3">
             <h5 class="color-secundario">Portugues</h5>
@@ -291,7 +302,7 @@
     </div>
     <div class="row" style="margin-top:20px!important">
       <div class="col s12 l12">
-        <a class="btn btn-principal text-negrita" href="#" >Postula</a>
+        <a class="btn btn-principal text-negrita" href="#">Postula</a>
       </div>
     </div>
   </div>

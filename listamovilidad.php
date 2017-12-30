@@ -1,14 +1,21 @@
 <?php include("header.php"); ?>
 
 <div class="cuerpo">
-  <div class="row portada-secundario portada-4 ">
-    <div class="portada-principal-oscuro flex seccion-2">
-        <div class="row">
-          <div class="col s12 l5 offset-l1">
-            <h2 class="white-text">MOVILIDAD ESTUDIANTIL</h2>
-            <p class="white-text">A través de los distintos convenios firmados, nuestros estudiantes pueden aplicar para cursar un semestre académico en universidades del  Perú o el extranjero. </p>
+
+  <div class="parallax-container">
+    <div class="parallax">
+      <img src="images/portadas/portada6.jpg">
+
+    </div>
+    <div class="row portada-secundario  ">
+      <div class="portada-principal-oscuro flex seccion-2">
+          <div class="row">
+            <div class="col s12 l5 offset-l1">
+              <h2 class="white-text">MOVILIDAD ESTUDIANTIL</h2>
+              <p class="white-text">A través de los distintos convenios firmados, nuestros estudiantes pueden aplicar para cursar un semestre académico en universidades del  Perú o el extranjero. </p>
+            </div>
           </div>
-        </div>
+      </div>
     </div>
   </div>
 

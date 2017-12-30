@@ -2,7 +2,7 @@
 
 
   <div class="cuerpo">
-        <div class="row portada-sub portada-3 ">
+        <!--div class="row portada-sub portada-3 ">
           <div class="portada-principal-oscuro flex seccion-2">
               <div class="row">
                 <div class="col s12 l5 offset-l2 hide-on-med-and-down">
@@ -13,6 +13,26 @@
                   <h5 class="white-text">INTERNACIONALIZACION DOCENTE</h5>
                 </div>
               </div>
+          </div>
+        </div-->
+
+        <div class="parallax-container portada-sub portada-principal-oscuro">
+          <div class="parallax">
+            <img src="images/portadas/portada5.jpg">
+
+          </div>
+          <div class="row   ">
+            <div class=" flex seccion-2">
+              <div class="row">
+                <div class="col s12 l5 offset-l2 hide-on-med-and-down">
+                  <h2 class="white-text">INTERNACIONALIZACION DOCENTE</h2>
+                </div>
+
+                <div class="col s12 l5 offset-l2 hide-on-med-and-up">
+                  <h5 class="white-text">INTERNACIONALIZACION DOCENTE</h5>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
 

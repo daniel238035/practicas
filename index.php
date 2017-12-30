@@ -1,7 +1,7 @@
 <?php include("header.php"); ?>
 
   <div class="cuerpo">
-    <div class="row portada-principal portada-1 ">
+    <!--div class="row portada-principal portada-1 ">
         <div class="portada-principal-oscuro flex flex-row">
           <div class="container ">
             <div class="row">
@@ -12,6 +12,25 @@
             </div>
           </div>
         </div>
+    </div-->
+
+    <div class="parallax-container">
+      <div class="parallax">
+        <img src="images/portadas/portada1.jpg">
+
+      </div>
+      <div class="row portada-principal">
+          <div class="portada-principal-oscuro flex flex-row">
+            <div class="container ">
+              <div class="row">
+                <div class="col s12 l8">
+                  <h2 class="white-text">BIENVENIDOS</h2>
+                  <p class="white-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+      </div>
     </div>
 
     <div class="row white seccion" id="nosotros">

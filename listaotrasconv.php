@@ -3,7 +3,7 @@
 
 
 <div class="cuerpo">
-  <div class="row portada-secundario portada-5 ">
+  <!--div class="row portada-secundario portada-5 ">
     <div class="portada-principal-oscuro flex seccion-2">
         <div class="row">
           <div class="col s12 l5 offset-l1">
@@ -11,6 +11,23 @@
             <p class="white-text">Aquí podrás encontrar información sobre los programas nacionales e internacionales de formación e intercambios de carácter universitario. </p>
           </div>
         </div>
+    </div>
+  </div-->
+
+  <div class="parallax-container">
+    <div class="parallax">
+      <img src="images/portadas/portada4.jpg">
+
+    </div>
+    <div class="row portada-secundario ">
+      <div class="portada-principal-oscuro flex seccion-2">
+          <div class="row">
+            <div class="col s12 l5 offset-l1">
+              <h2 class="white-text">OTRAS CONVOCATORIAS</h2>
+              <p class="white-text">Aquí podrás encontrar información sobre los programas nacionales e internacionales de formación e intercambios de carácter universitario. </p>
+            </div>
+          </div>
+      </div>
     </div>
   </div>
 

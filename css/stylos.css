@@ -398,13 +398,6 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 }
-.portada-6{
-  background: url('../images/portadas/portada7.jpg');
-  height: 500px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 
 .portada-form{
 	background: url('../images/portadas/portadaform.jpg');
