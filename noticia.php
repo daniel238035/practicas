@@ -13,7 +13,7 @@
 				<h4>Nombre de la Noticia</h4>
 			</div>
 			<div class="row" style="padding-bottom: 5px">
-				<div class="col s6">
+				<div class="col s12 l6">
 					<div class="row" style="margin: 8px 0px!important;">
 							<div class="col s4 flex-row-start text-negrita">
 								<i class="material-icons tooltipped color-secundario" data-position="left" data-delay="50" data-tooltip="Fecha">event</i>
