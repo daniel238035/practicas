@@ -16,7 +16,7 @@
         <div class="col s4">
             <p class="color-oscuro titulo-item "><i class="material-icons">room</i> Direccíón: Av.Balta 123</p>
            <p class="color-oscuro titulo-item "><i class="material-icons"> settings_phone</i>Teléfono: 074-235689</p>
-           <p class="color-oscuro titulo-item "><i class="material-icons">email</i> Correo: agencia@gmail.com</p>
+           <p class="color-oscuro titulo-item "><i class="material-icons">email</i> Correo Electrónico: agencia@gmail.com</p>
         </div>
         <div class="col s8 ">
         <div class="row">
